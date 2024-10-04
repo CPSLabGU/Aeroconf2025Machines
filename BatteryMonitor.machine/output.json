@@ -1,0 +1,7504 @@
+{
+  "edges" : [
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"110\"",
+        "BatteryMonitor_battery",
+        "\"110\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"000\"",
+            "BatteryMonitor_battery",
+            "\"000\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"100\"",
+            "BatteryMonitor_battery",
+            "\"100\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"010\"",
+            "BatteryMonitor_battery",
+            "\"010\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"110\"",
+            "BatteryMonitor_battery",
+            "\"110\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"001\"",
+            "BatteryMonitor_battery",
+            "\"001\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"101\"",
+            "BatteryMonitor_battery",
+            "\"101\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"011\"",
+            "BatteryMonitor_battery",
+            "\"011\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"111\"",
+            "BatteryMonitor_battery",
+            "\"111\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"ZZ0\"",
+        "BatteryMonitor_battery",
+        "\"ZZ0\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"000\"",
+            "BatteryMonitor_battery",
+            "\"000\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"100\"",
+            "BatteryMonitor_battery",
+            "\"100\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"010\"",
+            "BatteryMonitor_battery",
+            "\"010\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"110\"",
+            "BatteryMonitor_battery",
+            "\"110\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"001\"",
+            "BatteryMonitor_battery",
+            "\"001\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"101\"",
+            "BatteryMonitor_battery",
+            "\"101\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"011\"",
+            "BatteryMonitor_battery",
+            "\"011\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"111\"",
+            "BatteryMonitor_battery",
+            "\"111\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"01\"",
+        "BatteryMonitor_mode",
+        "\"01\"",
+        "battery",
+        "\"110\"",
+        "BatteryMonitor_battery",
+        "\"110\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"110\"",
+            "BatteryMonitor_battery",
+            "\"110\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"100\"",
+        "BatteryMonitor_battery",
+        "\"100\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"000\"",
+            "BatteryMonitor_battery",
+            "\"000\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"100\"",
+            "BatteryMonitor_battery",
+            "\"100\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"010\"",
+            "BatteryMonitor_battery",
+            "\"010\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"110\"",
+            "BatteryMonitor_battery",
+            "\"110\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"001\"",
+            "BatteryMonitor_battery",
+            "\"001\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"101\"",
+            "BatteryMonitor_battery",
+            "\"101\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"011\"",
+            "BatteryMonitor_battery",
+            "\"011\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"111\"",
+            "BatteryMonitor_battery",
+            "\"111\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"01\"",
+        "BatteryMonitor_mode",
+        "\"01\"",
+        "battery",
+        "\"100\"",
+        "BatteryMonitor_battery",
+        "\"100\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"100\"",
+            "BatteryMonitor_battery",
+            "\"100\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"01\"",
+        "BatteryMonitor_mode",
+        "\"01\"",
+        "battery",
+        "\"011\"",
+        "BatteryMonitor_battery",
+        "\"011\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"011\"",
+            "BatteryMonitor_battery",
+            "\"011\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "Initial",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"100\"",
+        "BatteryMonitor_battery",
+        "\"100\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "Initial",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"100\"",
+            "BatteryMonitor_battery",
+            "\"100\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"Z10\"",
+        "BatteryMonitor_battery",
+        "\"Z10\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"000\"",
+            "BatteryMonitor_battery",
+            "\"000\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"100\"",
+            "BatteryMonitor_battery",
+            "\"100\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"010\"",
+            "BatteryMonitor_battery",
+            "\"010\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"110\"",
+            "BatteryMonitor_battery",
+            "\"110\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"001\"",
+            "BatteryMonitor_battery",
+            "\"001\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"101\"",
+            "BatteryMonitor_battery",
+            "\"101\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"011\"",
+            "BatteryMonitor_battery",
+            "\"011\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"111\"",
+            "BatteryMonitor_battery",
+            "\"111\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"01\"",
+        "BatteryMonitor_mode",
+        "\"01\"",
+        "battery",
+        "\"001\"",
+        "BatteryMonitor_battery",
+        "\"001\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"01\"",
+            "BatteryMonitor_mode",
+            "\"01\"",
+            "battery",
+            "\"000\"",
+            "BatteryMonitor_battery",
+            "\"000\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"01\"",
+            "BatteryMonitor_mode",
+            "\"01\"",
+            "battery",
+            "\"100\"",
+            "BatteryMonitor_battery",
+            "\"100\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"01\"",
+            "BatteryMonitor_mode",
+            "\"01\"",
+            "battery",
+            "\"010\"",
+            "BatteryMonitor_battery",
+            "\"010\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"01\"",
+            "BatteryMonitor_mode",
+            "\"01\"",
+            "battery",
+            "\"110\"",
+            "BatteryMonitor_battery",
+            "\"110\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"01\"",
+            "BatteryMonitor_mode",
+            "\"01\"",
+            "battery",
+            "\"001\"",
+            "BatteryMonitor_battery",
+            "\"001\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"01\"",
+            "BatteryMonitor_mode",
+            "\"01\"",
+            "battery",
+            "\"101\"",
+            "BatteryMonitor_battery",
+            "\"101\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"01\"",
+            "BatteryMonitor_mode",
+            "\"01\"",
+            "battery",
+            "\"011\"",
+            "BatteryMonitor_battery",
+            "\"011\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"01\"",
+            "BatteryMonitor_mode",
+            "\"01\"",
+            "battery",
+            "\"111\"",
+            "BatteryMonitor_battery",
+            "\"111\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"101\"",
+        "BatteryMonitor_battery",
+        "\"101\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"000\"",
+            "BatteryMonitor_battery",
+            "\"000\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"100\"",
+            "BatteryMonitor_battery",
+            "\"100\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"010\"",
+            "BatteryMonitor_battery",
+            "\"010\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"110\"",
+            "BatteryMonitor_battery",
+            "\"110\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"001\"",
+            "BatteryMonitor_battery",
+            "\"001\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"101\"",
+            "BatteryMonitor_battery",
+            "\"101\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"011\"",
+            "BatteryMonitor_battery",
+            "\"011\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"111\"",
+            "BatteryMonitor_battery",
+            "\"111\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"000\"",
+        "BatteryMonitor_battery",
+        "\"000\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"000\"",
+            "BatteryMonitor_battery",
+            "\"000\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"100\"",
+            "BatteryMonitor_battery",
+            "\"100\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"010\"",
+            "BatteryMonitor_battery",
+            "\"010\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"110\"",
+            "BatteryMonitor_battery",
+            "\"110\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"001\"",
+            "BatteryMonitor_battery",
+            "\"001\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"101\"",
+            "BatteryMonitor_battery",
+            "\"101\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"011\"",
+            "BatteryMonitor_battery",
+            "\"011\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"111\"",
+            "BatteryMonitor_battery",
+            "\"111\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"01\"",
+        "BatteryMonitor_mode",
+        "\"01\"",
+        "battery",
+        "\"001\"",
+        "BatteryMonitor_battery",
+        "\"001\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"01\"",
+            "BatteryMonitor_mode",
+            "\"01\"",
+            "battery",
+            "\"001\"",
+            "BatteryMonitor_battery",
+            "\"001\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"001\"",
+        "BatteryMonitor_battery",
+        "\"001\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"01\"",
+            "BatteryMonitor_mode",
+            "\"01\"",
+            "battery",
+            "\"001\"",
+            "BatteryMonitor_battery",
+            "\"001\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"001\"",
+        "BatteryMonitor_battery",
+        "\"001\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"01\"",
+            "BatteryMonitor_mode",
+            "\"01\"",
+            "battery",
+            "\"001\"",
+            "BatteryMonitor_battery",
+            "\"001\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"110\"",
+        "BatteryMonitor_battery",
+        "\"110\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"110\"",
+            "BatteryMonitor_battery",
+            "\"110\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"000\"",
+        "BatteryMonitor_battery",
+        "\"000\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"000\"",
+            "BatteryMonitor_battery",
+            "\"000\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"01\"",
+        "BatteryMonitor_mode",
+        "\"01\"",
+        "battery",
+        "\"111\"",
+        "BatteryMonitor_battery",
+        "\"111\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"111\"",
+            "BatteryMonitor_battery",
+            "\"111\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"011\"",
+        "BatteryMonitor_battery",
+        "\"011\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"011\"",
+            "BatteryMonitor_battery",
+            "\"011\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "Initial",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"Z00\"",
+        "BatteryMonitor_battery",
+        "\"Z00\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "Initial",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"Z00\"",
+            "BatteryMonitor_battery",
+            "\"Z00\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"011\"",
+        "BatteryMonitor_battery",
+        "\"011\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"011\"",
+            "BatteryMonitor_battery",
+            "\"011\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"011\"",
+        "BatteryMonitor_battery",
+        "\"011\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"000\"",
+            "BatteryMonitor_battery",
+            "\"000\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"100\"",
+            "BatteryMonitor_battery",
+            "\"100\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"010\"",
+            "BatteryMonitor_battery",
+            "\"010\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"110\"",
+            "BatteryMonitor_battery",
+            "\"110\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"001\"",
+            "BatteryMonitor_battery",
+            "\"001\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"101\"",
+            "BatteryMonitor_battery",
+            "\"101\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"011\"",
+            "BatteryMonitor_battery",
+            "\"011\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"111\"",
+            "BatteryMonitor_battery",
+            "\"111\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"111\"",
+        "BatteryMonitor_battery",
+        "\"111\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"111\"",
+            "BatteryMonitor_battery",
+            "\"111\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"000\"",
+        "BatteryMonitor_battery",
+        "\"000\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"000\"",
+            "BatteryMonitor_battery",
+            "\"000\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "Initial",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"000\"",
+        "BatteryMonitor_battery",
+        "\"000\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "Initial",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"000\"",
+            "BatteryMonitor_battery",
+            "\"000\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"000\"",
+        "BatteryMonitor_battery",
+        "\"000\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"000\"",
+            "BatteryMonitor_battery",
+            "\"000\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"01\"",
+        "BatteryMonitor_mode",
+        "\"01\"",
+        "battery",
+        "\"101\"",
+        "BatteryMonitor_battery",
+        "\"101\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"101\"",
+            "BatteryMonitor_battery",
+            "\"101\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"010\"",
+        "BatteryMonitor_battery",
+        "\"010\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"000\"",
+            "BatteryMonitor_battery",
+            "\"000\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"100\"",
+            "BatteryMonitor_battery",
+            "\"100\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"010\"",
+            "BatteryMonitor_battery",
+            "\"010\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"110\"",
+            "BatteryMonitor_battery",
+            "\"110\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"001\"",
+            "BatteryMonitor_battery",
+            "\"001\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"101\"",
+            "BatteryMonitor_battery",
+            "\"101\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"011\"",
+            "BatteryMonitor_battery",
+            "\"011\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"111\"",
+            "BatteryMonitor_battery",
+            "\"111\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"000\"",
+        "BatteryMonitor_battery",
+        "\"000\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"000\"",
+            "BatteryMonitor_battery",
+            "\"000\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"100\"",
+            "BatteryMonitor_battery",
+            "\"100\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"010\"",
+            "BatteryMonitor_battery",
+            "\"010\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"110\"",
+            "BatteryMonitor_battery",
+            "\"110\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"001\"",
+            "BatteryMonitor_battery",
+            "\"001\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"101\"",
+            "BatteryMonitor_battery",
+            "\"101\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"011\"",
+            "BatteryMonitor_battery",
+            "\"011\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"111\"",
+            "BatteryMonitor_battery",
+            "\"111\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"01\"",
+        "BatteryMonitor_mode",
+        "\"01\"",
+        "battery",
+        "\"010\"",
+        "BatteryMonitor_battery",
+        "\"010\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"010\"",
+            "BatteryMonitor_battery",
+            "\"010\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"001\"",
+        "BatteryMonitor_battery",
+        "\"001\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"01\"",
+            "BatteryMonitor_mode",
+            "\"01\"",
+            "battery",
+            "\"001\"",
+            "BatteryMonitor_battery",
+            "\"001\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"010\"",
+        "BatteryMonitor_battery",
+        "\"010\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"010\"",
+            "BatteryMonitor_battery",
+            "\"010\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"111\"",
+        "BatteryMonitor_battery",
+        "\"111\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"111\"",
+            "BatteryMonitor_battery",
+            "\"111\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"111\"",
+        "BatteryMonitor_battery",
+        "\"111\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"000\"",
+            "BatteryMonitor_battery",
+            "\"000\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"100\"",
+            "BatteryMonitor_battery",
+            "\"100\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"010\"",
+            "BatteryMonitor_battery",
+            "\"010\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"110\"",
+            "BatteryMonitor_battery",
+            "\"110\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"001\"",
+            "BatteryMonitor_battery",
+            "\"001\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"101\"",
+            "BatteryMonitor_battery",
+            "\"101\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"011\"",
+            "BatteryMonitor_battery",
+            "\"011\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"111\"",
+            "BatteryMonitor_battery",
+            "\"111\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"100\"",
+        "BatteryMonitor_battery",
+        "\"100\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"100\"",
+            "BatteryMonitor_battery",
+            "\"100\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"100\"",
+        "BatteryMonitor_battery",
+        "\"100\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"100\"",
+            "BatteryMonitor_battery",
+            "\"100\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"100\"",
+        "BatteryMonitor_battery",
+        "\"100\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"100\"",
+            "BatteryMonitor_battery",
+            "\"100\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"111\"",
+        "BatteryMonitor_battery",
+        "\"111\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"111\"",
+            "BatteryMonitor_battery",
+            "\"111\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"ZZ1\"",
+        "BatteryMonitor_battery",
+        "\"ZZ1\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"000\"",
+            "BatteryMonitor_battery",
+            "\"000\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"100\"",
+            "BatteryMonitor_battery",
+            "\"100\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"010\"",
+            "BatteryMonitor_battery",
+            "\"010\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"110\"",
+            "BatteryMonitor_battery",
+            "\"110\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"001\"",
+            "BatteryMonitor_battery",
+            "\"001\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"101\"",
+            "BatteryMonitor_battery",
+            "\"101\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"011\"",
+            "BatteryMonitor_battery",
+            "\"011\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"111\"",
+            "BatteryMonitor_battery",
+            "\"111\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"010\"",
+        "BatteryMonitor_battery",
+        "\"010\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"010\"",
+            "BatteryMonitor_battery",
+            "\"010\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"110\"",
+        "BatteryMonitor_battery",
+        "\"110\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"110\"",
+            "BatteryMonitor_battery",
+            "\"110\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"Z00\"",
+        "BatteryMonitor_battery",
+        "\"Z00\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"000\"",
+            "BatteryMonitor_battery",
+            "\"000\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"100\"",
+            "BatteryMonitor_battery",
+            "\"100\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"010\"",
+            "BatteryMonitor_battery",
+            "\"010\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"110\"",
+            "BatteryMonitor_battery",
+            "\"110\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"001\"",
+            "BatteryMonitor_battery",
+            "\"001\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"101\"",
+            "BatteryMonitor_battery",
+            "\"101\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"011\"",
+            "BatteryMonitor_battery",
+            "\"011\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"111\"",
+            "BatteryMonitor_battery",
+            "\"111\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"101\"",
+        "BatteryMonitor_battery",
+        "\"101\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"101\"",
+            "BatteryMonitor_battery",
+            "\"101\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"100\"",
+        "BatteryMonitor_battery",
+        "\"100\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"000\"",
+            "BatteryMonitor_battery",
+            "\"000\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"100\"",
+            "BatteryMonitor_battery",
+            "\"100\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"010\"",
+            "BatteryMonitor_battery",
+            "\"010\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"110\"",
+            "BatteryMonitor_battery",
+            "\"110\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"001\"",
+            "BatteryMonitor_battery",
+            "\"001\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"101\"",
+            "BatteryMonitor_battery",
+            "\"101\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"011\"",
+            "BatteryMonitor_battery",
+            "\"011\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"111\"",
+            "BatteryMonitor_battery",
+            "\"111\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"011\"",
+        "BatteryMonitor_battery",
+        "\"011\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"011\"",
+            "BatteryMonitor_battery",
+            "\"011\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"01\"",
+        "BatteryMonitor_mode",
+        "\"01\"",
+        "battery",
+        "\"000\"",
+        "BatteryMonitor_battery",
+        "\"000\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"000\"",
+            "BatteryMonitor_battery",
+            "\"000\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "Initial",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"ZZ0\"",
+        "BatteryMonitor_battery",
+        "\"ZZ0\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "Initial",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"ZZ0\"",
+            "BatteryMonitor_battery",
+            "\"ZZ0\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"101\"",
+        "BatteryMonitor_battery",
+        "\"101\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"101\"",
+            "BatteryMonitor_battery",
+            "\"101\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"110\"",
+        "BatteryMonitor_battery",
+        "\"110\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"110\"",
+            "BatteryMonitor_battery",
+            "\"110\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "Initial",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"Z10\"",
+        "BatteryMonitor_battery",
+        "\"Z10\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "Initial",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"Z10\"",
+            "BatteryMonitor_battery",
+            "\"Z10\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"101\"",
+        "BatteryMonitor_battery",
+        "\"101\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"101\"",
+            "BatteryMonitor_battery",
+            "\"101\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "Initial",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"ZZ1\"",
+        "BatteryMonitor_battery",
+        "\"ZZ1\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "Initial",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"ZZ1\"",
+            "BatteryMonitor_battery",
+            "\"ZZ1\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"010\"",
+        "BatteryMonitor_battery",
+        "\"010\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : false,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"10\"",
+            "BatteryMonitor_mode",
+            "\"10\"",
+            "battery",
+            "\"010\"",
+            "BatteryMonitor_battery",
+            "\"010\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"ZZZ\"",
+        "BatteryMonitor_battery",
+        "\"ZZZ\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"000\"",
+            "BatteryMonitor_battery",
+            "\"000\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"100\"",
+            "BatteryMonitor_battery",
+            "\"100\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"010\"",
+            "BatteryMonitor_battery",
+            "\"010\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"110\"",
+            "BatteryMonitor_battery",
+            "\"110\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"001\"",
+            "BatteryMonitor_battery",
+            "\"001\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"101\"",
+            "BatteryMonitor_battery",
+            "\"101\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"011\"",
+            "BatteryMonitor_battery",
+            "\"011\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      },
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 2,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "MonitorBattery",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"111\"",
+            "BatteryMonitor_battery",
+            "\"111\""
+          ],
+          "type" : {
+            "read" : {
+
+            }
+          }
+        }
+      }
+    ],
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "Initial",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"ZZZ\"",
+        "BatteryMonitor_battery",
+        "\"ZZZ\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    [
+      {
+        "cost" : {
+          "energy" : {
+            "coefficient" : 0,
+            "exponent" : 0
+          },
+          "time" : {
+            "coefficient" : 8,
+            "exponent" : -7
+          }
+        },
+        "target" : {
+          "currentState" : "Initial",
+          "executeOnEntry" : true,
+          "nextState" : "MonitorBattery",
+          "properties" : [
+            "mode",
+            "\"00\"",
+            "BatteryMonitor_mode",
+            "\"00\"",
+            "battery",
+            "\"ZZZ\"",
+            "BatteryMonitor_battery",
+            "\"ZZZ\""
+          ],
+          "type" : {
+            "write" : {
+
+            }
+          }
+        }
+      }
+    ]
+  ],
+  "initialStates" : [
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "Initial",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"ZZ1\"",
+        "BatteryMonitor_battery",
+        "\"ZZ1\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "Initial",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"000\"",
+        "BatteryMonitor_battery",
+        "\"000\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "Initial",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"Z10\"",
+        "BatteryMonitor_battery",
+        "\"Z10\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "Initial",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"ZZ0\"",
+        "BatteryMonitor_battery",
+        "\"ZZ0\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "Initial",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"100\"",
+        "BatteryMonitor_battery",
+        "\"100\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "Initial",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"ZZZ\"",
+        "BatteryMonitor_battery",
+        "\"ZZZ\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "Initial",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"Z00\"",
+        "BatteryMonitor_battery",
+        "\"Z00\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    }
+  ],
+  "nodes" : [
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"001\"",
+        "BatteryMonitor_battery",
+        "\"001\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"001\"",
+        "BatteryMonitor_battery",
+        "\"001\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"010\"",
+        "BatteryMonitor_battery",
+        "\"010\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"Z10\"",
+        "BatteryMonitor_battery",
+        "\"Z10\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"01\"",
+        "BatteryMonitor_mode",
+        "\"01\"",
+        "battery",
+        "\"110\"",
+        "BatteryMonitor_battery",
+        "\"110\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"101\"",
+        "BatteryMonitor_battery",
+        "\"101\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"01\"",
+        "BatteryMonitor_mode",
+        "\"01\"",
+        "battery",
+        "\"010\"",
+        "BatteryMonitor_battery",
+        "\"010\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"01\"",
+        "BatteryMonitor_mode",
+        "\"01\"",
+        "battery",
+        "\"001\"",
+        "BatteryMonitor_battery",
+        "\"001\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"101\"",
+        "BatteryMonitor_battery",
+        "\"101\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"100\"",
+        "BatteryMonitor_battery",
+        "\"100\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"010\"",
+        "BatteryMonitor_battery",
+        "\"010\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"110\"",
+        "BatteryMonitor_battery",
+        "\"110\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"01\"",
+        "BatteryMonitor_mode",
+        "\"01\"",
+        "battery",
+        "\"011\"",
+        "BatteryMonitor_battery",
+        "\"011\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "Initial",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"ZZ0\"",
+        "BatteryMonitor_battery",
+        "\"ZZ0\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"110\"",
+        "BatteryMonitor_battery",
+        "\"110\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"01\"",
+        "BatteryMonitor_mode",
+        "\"01\"",
+        "battery",
+        "\"111\"",
+        "BatteryMonitor_battery",
+        "\"111\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"111\"",
+        "BatteryMonitor_battery",
+        "\"111\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"000\"",
+        "BatteryMonitor_battery",
+        "\"000\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"011\"",
+        "BatteryMonitor_battery",
+        "\"011\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "Initial",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"ZZ1\"",
+        "BatteryMonitor_battery",
+        "\"ZZ1\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"011\"",
+        "BatteryMonitor_battery",
+        "\"011\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"000\"",
+        "BatteryMonitor_battery",
+        "\"000\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "Initial",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"100\"",
+        "BatteryMonitor_battery",
+        "\"100\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"01\"",
+        "BatteryMonitor_mode",
+        "\"01\"",
+        "battery",
+        "\"001\"",
+        "BatteryMonitor_battery",
+        "\"001\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"110\"",
+        "BatteryMonitor_battery",
+        "\"110\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"Z00\"",
+        "BatteryMonitor_battery",
+        "\"Z00\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"001\"",
+        "BatteryMonitor_battery",
+        "\"001\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"111\"",
+        "BatteryMonitor_battery",
+        "\"111\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"100\"",
+        "BatteryMonitor_battery",
+        "\"100\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"011\"",
+        "BatteryMonitor_battery",
+        "\"011\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"011\"",
+        "BatteryMonitor_battery",
+        "\"011\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"01\"",
+        "BatteryMonitor_mode",
+        "\"01\"",
+        "battery",
+        "\"100\"",
+        "BatteryMonitor_battery",
+        "\"100\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"000\"",
+        "BatteryMonitor_battery",
+        "\"000\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"110\"",
+        "BatteryMonitor_battery",
+        "\"110\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "Initial",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"Z00\"",
+        "BatteryMonitor_battery",
+        "\"Z00\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"000\"",
+        "BatteryMonitor_battery",
+        "\"000\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"100\"",
+        "BatteryMonitor_battery",
+        "\"100\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"101\"",
+        "BatteryMonitor_battery",
+        "\"101\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"ZZZ\"",
+        "BatteryMonitor_battery",
+        "\"ZZZ\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"10\"",
+        "BatteryMonitor_mode",
+        "\"10\"",
+        "battery",
+        "\"111\"",
+        "BatteryMonitor_battery",
+        "\"111\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"000\"",
+        "BatteryMonitor_battery",
+        "\"000\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"01\"",
+        "BatteryMonitor_mode",
+        "\"01\"",
+        "battery",
+        "\"101\"",
+        "BatteryMonitor_battery",
+        "\"101\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"100\"",
+        "BatteryMonitor_battery",
+        "\"100\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"010\"",
+        "BatteryMonitor_battery",
+        "\"010\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"100\"",
+        "BatteryMonitor_battery",
+        "\"100\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"111\"",
+        "BatteryMonitor_battery",
+        "\"111\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"ZZ0\"",
+        "BatteryMonitor_battery",
+        "\"ZZ0\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "Initial",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"Z10\"",
+        "BatteryMonitor_battery",
+        "\"Z10\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"ZZ1\"",
+        "BatteryMonitor_battery",
+        "\"ZZ1\""
+      ],
+      "type" : {
+        "write" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "Initial",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"ZZZ\"",
+        "BatteryMonitor_battery",
+        "\"ZZZ\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "Initial",
+      "executeOnEntry" : true,
+      "nextState" : "Initial",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"000\"",
+        "BatteryMonitor_battery",
+        "\"000\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"01\"",
+        "BatteryMonitor_mode",
+        "\"01\"",
+        "battery",
+        "\"000\"",
+        "BatteryMonitor_battery",
+        "\"000\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"010\"",
+        "BatteryMonitor_battery",
+        "\"010\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    },
+    {
+      "currentState" : "MonitorBattery",
+      "executeOnEntry" : false,
+      "nextState" : "MonitorBattery",
+      "properties" : [
+        "mode",
+        "\"00\"",
+        "BatteryMonitor_mode",
+        "\"00\"",
+        "battery",
+        "\"101\"",
+        "BatteryMonitor_battery",
+        "\"101\""
+      ],
+      "type" : {
+        "read" : {
+
+        }
+      }
+    }
+  ]
+}

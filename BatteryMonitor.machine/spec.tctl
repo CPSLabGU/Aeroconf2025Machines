@@ -1,0 +1,8 @@
+// spec:language VHDL
+
+A G battery = "000" -> {A F mode = "00"}_{t <= 2 us}
+
+A G mode = "00" -> A mode = "00" W battery /= "000"
+
+A G mode = "00" -> E mode = "00" U battery /= "000"
+
