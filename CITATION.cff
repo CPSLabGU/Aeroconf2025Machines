@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "McColl"
+  given-names: "Morgan"
+  orcid: "https://orcid.org/0000-0003-4217-7210"
+title: "Aeroconf2025Machines"
+version: 1.0.0
+date-released: 2025-01-10
+url: "https://github.com/CPSLabGU/Aeroconf2025Machines"
+preferred-citation:
+  type: conference-paper
+  conference:
+    name: "IEEE Aerospace Conference"
+  authors:
+  - family-names: "McColl"
+    given-names: "Morgan"
+    orcid: "https://orcid.org/0000-0003-4217-7210"
+  - family-names: "McColl"
+    given-names: "Callum"
+  - family-names: "Pereira"
+    given-names: "Aaron"
+  - family-names: "Hexel"
+    given-names: "Rene"
+  month: 03
+  start: 1
+  end: 8
+  title: "Efficient Runtime Verification of Energy Properties within Hardware / Software Co-Design"
+  year: 2025
+  location:
+    name: "Big Sky, Montana"
