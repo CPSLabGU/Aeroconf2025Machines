@@ -13,12 +13,14 @@ verification using Computation Tree Logic (CTL). The files of interest are conta
 │   ├── model.json
 │   ├── output.json
 │   └── spec.tctl
+└── img
 ```
 
 - The `data.dat` file contains the binary-encoded Kripke structure transferred from the FPGA.
 - The `model.json` file contains the machine definition which is consumed by our [code generator](https://github.com/CPSLabGU/LLFSMGenerate) to generate the respective VHDL files.
 - The `output.json` file contains the parsed Kripke structure after it has been decoded from the binary representation within `data.dat`. This format is defined within [this repository](https://github.com/CPSLabGU/VHDLKripkeStructures).
 - The `spec.tctl` file contains the CTL formulae for defining the requirements formally verified using our [model checker](https://github.com/CPSLabGU/VHDLModelChecker). The format of this file is defined within our [CTL parser](https://github.com/CPSLabGU/TCTLParser).
+- The `img` directory contains image files of the Kripke structure in various formats generated from [graphviz](https://graphviz.org). You may open these files to see the full Kripke structure of the `BatteryMonitor` LLFSM. Please note that these files do not include the energy-labelled edges within the Kripke structure.
 
 ## Installing the LLFSM Tools
 
